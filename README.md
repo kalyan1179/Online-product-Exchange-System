@@ -27,7 +27,7 @@ How to use?
 
 5.Run Apache and MySQL in XAMPP Server.
 
-6.Create a database named 'ShopDrop' in phpMyAdmin.
+6.Create a database named 'sd' in phpMyAdmin.
 
 7.Run shopdrop.sql in phpMyAdmin.
 
