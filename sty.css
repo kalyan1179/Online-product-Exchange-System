@@ -1,0 +1,123 @@
+body{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+	/*background: #090000;*/
+	/*background: url("SD_Images/bg1.jpg");*/
+	background-image: url('bg1.jpg');
+}
+
+.loginbox pre{
+	/*margin-top:6%;
+	margin-left:6.5%;*/
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size:19.05px;
+	color: #000;
+}
+.loginbox{
+	width:420px;
+	height:520px;
+	/*background: #123;*/
+	color: grey;
+	top:40%;
+	left:20%;
+	float: left;
+	position: absolute;
+	transform: translate(-50%,-35%);
+	box-sizing:border-box;
+	/*border: 1px solid white;*/
+  	padding: 60px 35px;
+  	font-size: 18px;
+  	/*box-shadow: 5px 10px 8px #888888;*/
+}
+
+.loginbox Label{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+}
+
+.loginbox input{
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.loginbox input[type="text"],input[type="password"]
+{
+	border:none;
+	border-bottom:2px solid lightgrey;
+	background: transparent;
+	outline:none;
+	height: 40px;
+	color:#fff;
+	font-size: 14px;
+}
+
+.loginbox input[type="submit"]
+{
+	outline: none;
+	border:none;
+	background-color:tomato;
+	box-shadow:5px 5px 15px 1px tomato;
+	height: 40px;
+	color: #fff;
+	font-size: 17px;
+	border-radius:25px;
+}
+
+.loginbox input[type="submit"]:hover
+{
+	cursor:pointer;
+	background:seagreen;
+	box-shadow:5px 5px 15px 1px seagreen;
+	color:#fff;
+}
+
+.signupbox{
+	width:520px;
+	height:520px;
+	/*background: #123;*/
+	color: grey;
+	top:40%;
+	left:65.0%;
+	float: left;
+	position: absolute;
+	transform: translate(-50%,-35%);
+	box-sizing:border-box;
+	/*border: 1px solid white;*/
+	border-left:5px solid lightgrey;
+  	padding: 65px 70px;
+  	padding-left: 100px;
+  	font-size: 18px;
+ }
+
+.signupbox pre{
+	/*margin-top:100px;*/
+	/*margin-left:6.5%;*/
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size:19.05px;
+	color: #000;
+}
+ .signupbox input[type="submit"]
+{
+	outline: none;
+	border:none;
+	background-color:tomato;
+	box-shadow:5px 5px 15px 1px tomato;
+	height: 40px;
+	width:60%;
+	margin-left:90px;
+	color: #fff;
+	font-size: 17px;
+	border-radius:25px;
+}
+
+.signupbox input[type="submit"]:hover
+{
+	cursor:pointer;
+	background:seagreen;
+	color:#fff;
+	box-shadow:5px 5px 15px 1px seagreen;
+}
