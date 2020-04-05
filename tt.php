@@ -2,7 +2,7 @@
 // require 'connect.inc.php';
 session_start();
 $servername = "localhost";
-$username1 = "kalyan";
+$username1 = "root";
 $password = "";
 $dbname = "sd";
 // echo "De";
