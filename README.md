@@ -1,4 +1,5 @@
 # Online-product-Exchange-System
+This website enables any user to buy & sell products online once they are registered .It is a user friendly website and easy to use .This website is developed with the criteria to make shopping easy and quick for all. The project was developed to fulfill the requirement of the user who wishes to buy or sell the used goods online.
 
 Software Requirements:
 
