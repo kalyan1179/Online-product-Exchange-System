@@ -39,3 +39,4 @@ Note:
 3. For admin: 
               Username: admin1
               Password: password1
+4. Limitation: Product images size must be less than 1MB.
