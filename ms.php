@@ -1,7 +1,7 @@
 <?php 
 // require 'connect.inc.php';
 $servername = "localhost";
-$username = "kalyan";
+$username = "root";
 $password = "";
 $dbname = "sd";
 
