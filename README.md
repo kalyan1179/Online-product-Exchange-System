@@ -36,3 +36,6 @@ How to use?
 Note:
 1. Enter your email and password in index.php in 'PHPMailer' folder so that an 'OTP' can be sent to users.
 2. Allow less secure apps permissions in your email account.
+3. For admin: 
+              Username: admin1
+              Password: password1
